@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Zamion101/Zamion101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+	<img src="./title.svg" width="256px"><br>
+  <sub><samp>
+    <a href="https://t.me/Zamion101">Telegram</a>
+    ・
+    <a href="https://www.instagram.com/berkebutun">Instagram</a>
+    ・
+	 <a href="https://discordapp.com/users/117331106868625411">Discord</a>
+  </samp></sub>
+</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Don't look at me like that, I could misunderstand 😏<br><br>
+I'm a Full-stack developer specialized in Back-end development from İstanbul, Turkey, At the moment I'm studying Electrical Engineering at University Paderborn, Germany. I am someone who enjoys coding new, unique, funny and interesting things. Here you can check my 'public' projects and if you feel generous you can 🌟 them.
+</p>
