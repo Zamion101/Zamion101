@@ -25,3 +25,9 @@ Here are some of my projects
     <a href="https://animewho.com">AnimeWho?</a>
   </samp></sub>
 </h3>
+<hr></hr>
+<h5 align="center">
+	<a href="https://discord.com/users/117331106868625411">
+		<img src="https://lanyard-profile-readme.vercel.app/api/117331106868625411"></img>
+	</a>
+</h5>
