@@ -2,10 +2,6 @@
 <h3 align="center">
 	<img src="./title.svg" width="256px"><br>
   <sub><samp>
-    <a href="https://t.me/Zamion101">Telegram</a>
-    ・
-    <a href="https://www.instagram.com/berkebutun">Instagram</a>
-    ・
 	 <a href="https://discordapp.com/users/117331106868625411">Discord</a>
   </samp></sub>
 </h3>
