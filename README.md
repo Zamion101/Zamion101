@@ -31,7 +31,7 @@ I'm a Full-stack developer specialized in Back-end development from İstanbul, T
 <p align="center">
     <a href="https://top.gg/bot/708327119851356251">WordBot</a>
     ・
-    <a href="https://animewho.com">AnimeWho?</a>
+    <a href="https://kitsune.tr">Kitsune.TR</a>
 </p>
 <hr></hr>
 <h5 align="center">
